@@ -3,6 +3,7 @@ WELCOME TO THE GALLERY LINUX DISTRIBUTION REPOSITORY!
 
 <img width="160![JPEG image](https://github.com/user-attachments/assets/56fb17a3-dc55-462e-84fd-c5539a3153ec)
 " height="160" alt="image" src="https://github.com/user-attachments/assets/db5c369c-f165-4fbe-aff2-f9a6d7df4b70" />
+    <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/e7f81ce2-b4d1-4e6e-84db-cfa2348e6803" />
 
 
 💻 Hardware Requirements for Gallery OS
